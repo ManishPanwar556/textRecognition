@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "233833151960",
+    "firebase_url": "https://strange-retina-267610.firebaseio.com",
+    "project_id": "strange-retina-267610",
+    "storage_bucket": "strange-retina-267610.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233833151960:android:ce3a6ddc930838d53d46ad",
+        "android_client_info": {
+          "package_name": "com.example.textrecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233833151960-354q7fcips6kirkvjad75em8kfkm20cc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKKdNjq9kH1cR9Ks0HUPp51lTwNerUCag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233833151960-354q7fcips6kirkvjad75em8kfkm20cc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
